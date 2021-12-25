@@ -20,7 +20,7 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 
 **Processamento e análise de dados:** R e Python.
 
-**Desenvolvimento:** Git. 
+**Desenvolvimento:** Git.
 
 **Visualização de dados:** Power BI e Tableau.
 
@@ -28,9 +28,10 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 
 **Deploy de modelo:** Heroku.
 
-**Links:**
-* [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/fmatholiveira/)
-* [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meigaromlopes@gmail.com)](mailto:fmatheus159@gmail.com)
+**Contato:**
+* [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmatholiveira/)
+
+* [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmatheus159@gmail.com)
 
 
 ## Projetos de Ciência de Dados:
@@ -40,10 +41,10 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 A fim de definir um orçamento para a reforma das lojas, o CFO da Rossmann solicitou uma previsão de vendas de cada loja para as próximas seis semanas. O modelo de previsão atual era baseado no feeling do time de negócio e na média de vendas das lojas.
 Nesse contexto, desenvolvi um modelo de machine learning de regressão para fornecer previsões de vendas da loja com maior precisão. O modelo fornece previsões que podem ser acessadas no Telegram com erro (MAPE) de 10,3%.
 
-## Análise de Dados - Projeto de Insights
+## Engenharia de Dados - Projeto de ETL
 
 Em construção
 
-## Engenharia de Dados - Projeto de ETL
+## Análise de Dados - Projeto de Insights
 
 Em construção
