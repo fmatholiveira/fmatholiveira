@@ -6,7 +6,7 @@ O principal objetivo deste portfólio de projetos de ciência de dados é demons
 # Matheus Oliveira
 <sub>*Cientista de Dados*</sub>
 
-Tenho 2 anos de experiência profissional com dados, atuando na parte de automação de processos e rotinas,  planejamento estratégico e criação de dashboards e estudo Machine Learning desde 2021.
+Tenho 2 anos de experiência profissional com dados, atuando na parte de automação de processos e rotinas, planejamento estratégico, criação de dashboards e estudo Machine Learning desde 2021.
 
 Tenho conhecimento de todas as etapas de desenvolvimento de uma solução de negócios utilizando os conceitos e ferramentas da Ciência de Dados, desde o entendimento do negócio até a publicação do modelo em produção utilizando núvem.
 
