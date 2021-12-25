@@ -1,6 +1,6 @@
-# Portfólio de Projetos de Ciência de Dados
+# Portfólio de Projetos
 
-O principal objetivo deste portfólio de projetos de ciência de dados é demonstrar minhas habilidades na solução de desafios de negócios por meio do meu conhecimento e ferramentas de ciência de dados.
+O principal objetivo deste portfólio de projetos é demonstrar minhas habilidades na solução de desafios de negócios por meio do meu conhecimento e ferramentas de ciência de dados.
 <br><br>
 
 # Matheus Oliveira
