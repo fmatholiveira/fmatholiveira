@@ -4,7 +4,7 @@ O principal objetivo deste portfólio de projetos é demonstrar minhas habilidad
 <br><br>
 
 # Matheus Oliveira
-<sub>*Cientista de Dados*</sub>
+*Cientista de Dados*
 
 Tenho 2 anos de experiência profissional com dados, atuando na parte de automação de processos e rotinas, planejamento estratégico, criação de dashboards e estudo Machine Learning desde 2021.
 
