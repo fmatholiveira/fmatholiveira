@@ -38,7 +38,8 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 
 ### [Learning to Rank - Health Insurance Cross Sell]( https://github.com/fmatholiveira/health-insurance-cross_sell )
 
-O time de produtos selecionou 127 mil novos clientes que não responderam a pesquisa para participar de uma campanha, no qual receberão a oferta do novo produto de seguro de automóveis. A oferta será feita pelo time de vendas através de ligações telefônicas. Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentro do período da campanha.
+<b>Em Construção</b><br>
+O time de produtos selecionou 127 mil novos clientes que não responderam a pesquisa para participar de uma campanha, no qual receberão a oferta do novo produto de seguro de automóveis. A oferta será feita pelo time de vendas através de ligações telefônicas. Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentro do período da campanha.<br>
 Em razão da questão de negócio mencionada, irei desenvolver um modelo de rankeamento onde será possível localizar a maior parte dos clientes propensos a adquirir o seguro com a menor quantidade de base possível.
 <br><br>
 
