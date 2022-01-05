@@ -36,6 +36,13 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 
 ## Projetos de Ciência de Dados:
 
+### [Learning to Rank - Health Insurance Cross Sell]( https://github.com/fmatholiveira/health-insurance-cross_sell )
+
+O time de produtos selecionou 127 mil novos clientes que não responderam a pesquisa para participar de uma campanha, no qual receberão a oferta do novo produto de seguro de automóveis. A oferta será feita pelo time de vendas através de ligações telefônicas. Contudo, o time de vendas tem uma capacidade de realizar 20 mil ligações dentro do período da campanha.
+
+Em razão da questão de negócio mencionada, irei desenvolver um modelo de rankeamento onde será possível localizar a maior parte dos clientes propensos a adquirir o seguro com a menor quantidade de base possível.
+<br><br>
+
 ### [Previsão de Vendas - Lojas Rossmann]( https://github.com/fmatholiveira/rossmann-store-sales )
 
 A fim de definir um orçamento para a reforma das lojas, o CFO da Rossmann solicitou uma previsão de vendas de cada loja para as próximas seis semanas. O modelo de previsão atual era baseado no feeling do time de negócio e na média de vendas das lojas.
