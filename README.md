@@ -32,8 +32,8 @@ Os detalhes de cada solução estão descritos nos projetos a seguir.
 * [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fmatholiveira/)
 
 * [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fmatheus159@gmail.com)
-
 <br><br>
+
 ## Projetos de Ciência de Dados:
 
 ### [Learning to Rank - Health Insurance Cross Sell]( https://github.com/fmatholiveira/health-insurance-cross_sell )
@@ -47,16 +47,15 @@ Em razão da questão de negócio mencionada, irei desenvolver um modelo de rank
 
 A fim de definir um orçamento para a reforma das lojas, o CFO da Rossmann solicitou uma previsão de vendas de cada loja para as próximas seis semanas. O modelo de previsão atual era baseado no feeling do time de negócio e na média de vendas das lojas.
 Nesse contexto, desenvolvi um modelo de machine learning de regressão para fornecer previsões de vendas da loja com maior precisão. O modelo fornece previsões que podem ser acessadas no Telegram com erro (MAPE) de 10,3%.
-
 <br><br>
+
 ## Engenharia de Dados - Projeto de ETL
 
 ### [Web Scraping - Star Jeans]( https://github.com/fmatholiveira/web-scrapping-star-jeans )
 
 O objetivo é manter o custo operacional baixo e escalar à medida que conquistam clientes. Porém, mesmo com o produto de entrada e público definidos, os dois sócios não possuem experiência nesse mercado de moda e por isso não sabem definir coisas básicas como preço, tipo de calça e material para confecção de cada peça. Os principais concorrentes da empresa Star Jeans são as empresas americanas H&M e Macys.
-
-
 <br><br>
+
 ## Análise de Dados - Projeto de Insights
 
 ### [Dashboard Insights - House Rocket]( https://github.com/fmatholiveira/house-rocket )
